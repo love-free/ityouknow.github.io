@@ -20,9 +20,9 @@ favicon: favicon.ico
 # url: http://www.ityouknow.com
 # enforce_ssl: ityouknow.com
 
-repository: love-free/pws.github.io
-github_url: https://github.com/love-free
-url: https://www.pws.com
+repository: lovefree624/pws.github.io
+github_url: https://github.com/lovefree624
+url: https://www.lovefree624.com
 
 ## Gem
 plugins:
